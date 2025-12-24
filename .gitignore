@@ -1,0 +1,8 @@
+outputs/
+.png
+.tiff
+.pdf
+.Rhistory
+.RData
+.Rproj.user
+.DS_Store
